@@ -2,7 +2,7 @@
     "licenses": [
         {
             "key": "BIYAN",
-            "active": false,
+            "active": true,
             "used_on": null
         },
         {
